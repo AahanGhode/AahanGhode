@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AahanGhode
-- 👀 I’m interested in ... computer science, ML, AI, robotics, and orgami
+- 👀 I’m interested in ... computer science, ML, AI, robotics, and full stack development.
 - 🌱 I’m currently learning ... C++ and JS
 - 💞️ I’m looking to collaborate on ... any cool projects
 - 📫 How to reach me ... aahanghode2020@gmail.com
